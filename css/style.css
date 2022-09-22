@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(24, 23, 20);
+}
+
+#logo {
+    height: 150px;
+}
+
+#special {
+    font-size: 30px;
+    color: blue;
+}
+
+#bordered {
+    border: 5px solid rebeccapurple;
+}
+
+.patrick {
+    background-color: darkturquoise;
+}
+
+.patrick p {
+    font-style: italic;
+}
+
+.middle {
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px solid black;
+}
+
+.fancy {
+    font-family: cursive;
+    color: brown;
+}
+
+div {
+    background-color: limegreen;
+    height: 59px;
+    width: 50%;
+    border: 8px dotted coral;
+    text-align: center;
+}
